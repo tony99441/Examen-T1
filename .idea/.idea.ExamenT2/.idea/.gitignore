@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.ExamenT2.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../../:\Users\tony9\Desktop\Videojuegos\Nueva carpeta\Videojuegos y Aplicaciones Moviles\AreaDeTrabajoUnity\Arcade Bikes Project\ExamenT2\.idea\.idea.ExamenT2\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
